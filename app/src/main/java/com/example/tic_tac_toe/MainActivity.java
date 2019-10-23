@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
         }
         for(int wp[]: winningPositions)
         {
-            if(isClicked[wp[0]]==isClicked[wp[1]]&&isClicked[wp[1]]==isClicked[wp[2]]&&isClicked[wp[0]]!=2)
+            if(isClicked[wp[0]]==isClicked[wp[1]]&&isClicked[wp[1]]==isClicked[wp[2]]&&isClicked[wp[0]]!=2&&!won)
             {
                 won=true;
              if(isClicked[wp[0]]==1)
