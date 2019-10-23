@@ -33,7 +33,8 @@ public class MainActivity extends AppCompatActivity {
         TextView redScore = (TextView) findViewById(R.id.redScore);
         TextView yellowScore = (TextView) findViewById(R.id.yellowScore);
         int position = Integer.parseInt(coin.getTag().toString());
-        if(isClicked[position]==2&&!won&&!isDraw) {
+        if(isClicked[position]==2&&!won&&!isDraw)
+        {
             if (currentPlayer == 1) {
                 coin.setImageResource(R.drawable.yellow_coin);
                 isClicked[position] = currentPlayer;
