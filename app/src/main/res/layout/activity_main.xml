@@ -153,15 +153,16 @@
     </androidx.gridlayout.widget.GridLayout>
 
     <LinearLayout
-        android:layout_width="317dp"
-        android:layout_height="115dp"
+        android:id="@+id/linearLayout2"
+        android:layout_width="295dp"
+        android:layout_height="94dp"
         android:background="@drawable/rounded_rectangle_blue"
+        android:elevation="8dp"
         android:orientation="horizontal"
         app:layout_constraintBottom_toTopOf="@+id/gridLayout"
         app:layout_constraintEnd_toEndOf="parent"
-        android:elevation="8dp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        app:layout_constraintTop_toBottomOf="@+id/title">
 
         <LinearLayout
             android:layout_width="wrap_content"
@@ -170,12 +171,11 @@
 
             <TextView
                 style="@style/Widget.AppCompat.TextView"
-                android:layout_width="164dp"
-                android:layout_height="wrap_content"
+                android:layout_width="169dp"
+                android:layout_height="47dp"
                 android:elevation="2dp"
-                android:fontFamily="@font/nunito_sans_extrabold"
+                android:fontFamily="@font/nunito_extrabold"
                 android:gravity="center"
-                android:paddingTop="10dp"
                 android:shadowColor="#00252525"
                 android:shadowDx="5.0"
                 android:shadowDy="5.0"
@@ -188,7 +188,7 @@
                 android:id="@+id/yellowScore"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:fontFamily="@font/nunito_sans_semibold"
+                android:fontFamily="@font/nunito_semibold_italic"
                 android:gravity="center"
                 android:shadowColor="#00252525"
                 android:shadowDx="5.0"
@@ -205,11 +205,10 @@
             android:orientation="vertical">
 
             <TextView
-                android:layout_width="146dp"
-                android:layout_height="wrap_content"
-                android:fontFamily="@font/nunito_sans_extrabold"
+                android:layout_width="115dp"
+                android:layout_height="47dp"
+                android:fontFamily="@font/nunito_extrabold"
                 android:gravity="center"
-                android:paddingTop="10dp"
                 android:shadowColor="#00252525"
                 android:shadowDx="5.0"
                 android:shadowDy="5.0"
@@ -222,7 +221,7 @@
                 android:id="@+id/redScore"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:fontFamily="@font/nunito_sans_semibold"
+                android:fontFamily="@font/nunito_semibold_italic"
                 android:gravity="center"
                 android:shadowColor="#00252525"
                 android:shadowDx="5.0"
@@ -277,5 +276,38 @@
             app:layout_constraintTop_toBottomOf="@+id/messageText" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/nunito_black"
+        android:text="@string/title"
+        android:textColor="#3f51b5"
+        android:textSize="40sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="30dp"
+        app:layout_constraintEnd_toStartOf="@+id/title"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/red_coin" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="30dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/title"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/yellow_coin" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
