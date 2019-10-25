@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
                 isDraw=false;
             }
         }
-        if(isDraw)
+        if(isDraw&&!won)
         {
             showDialog("It's a Draw !");
             playSound(R.raw.pop_sound);
