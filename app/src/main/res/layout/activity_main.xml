@@ -34,10 +34,7 @@
             android:paddingBottom="0dp"
             android:tag="0"
             app:layout_column="0"
-            app:layout_columnWeight="1"
-            app:layout_gravity="fill"
             app:layout_row="0"
-            app:layout_rowWeight="1"
             app:srcCompat="@drawable/red_coin" />
 
         <ImageView
@@ -51,10 +48,7 @@
             android:paddingBottom="0dp"
             android:tag="1"
             app:layout_column="1"
-            app:layout_columnWeight="1"
-            app:layout_gravity="fill"
             app:layout_row="0"
-            app:layout_rowWeight="1"
             app:srcCompat="@drawable/red_coin" />
 
         <ImageView
@@ -68,10 +62,7 @@
             android:paddingBottom="0dp"
             android:tag="2"
             app:layout_column="2"
-            app:layout_columnWeight="1"
-            app:layout_gravity="fill"
             app:layout_row="0"
-            app:layout_rowWeight="1"
             app:srcCompat="@drawable/red_coin" />
 
         <ImageView
@@ -85,10 +76,7 @@
             android:padding="8dp"
             android:tag="3"
             app:layout_column="0"
-            app:layout_columnWeight="1"
-            app:layout_gravity="fill"
             app:layout_row="1"
-            app:layout_rowWeight="1"
             app:srcCompat="@drawable/red_coin" />
 
         <ImageView
@@ -102,10 +90,7 @@
             android:padding="8dp"
             android:tag="4"
             app:layout_column="1"
-            app:layout_columnWeight="1"
-            app:layout_gravity="fill"
             app:layout_row="1"
-            app:layout_rowWeight="1"
             app:srcCompat="@drawable/red_coin" />
 
         <ImageView
@@ -119,10 +104,7 @@
             android:padding="8dp"
             android:tag="5"
             app:layout_column="2"
-            app:layout_columnWeight="1"
-            app:layout_gravity="fill"
             app:layout_row="1"
-            app:layout_rowWeight="1"
             app:srcCompat="@drawable/red_coin" />
 
         <ImageView
@@ -136,10 +118,7 @@
             android:padding="8dp"
             android:tag="6"
             app:layout_column="0"
-            app:layout_columnWeight="1"
-            app:layout_gravity="fill"
             app:layout_row="2"
-            app:layout_rowWeight="1"
             app:srcCompat="@drawable/red_coin" />
 
         <ImageView
@@ -153,10 +132,7 @@
             android:padding="8dp"
             android:tag="7"
             app:layout_column="1"
-            app:layout_columnWeight="1"
-            app:layout_gravity="fill"
             app:layout_row="2"
-            app:layout_rowWeight="1"
             app:srcCompat="@drawable/red_coin" />
 
         <ImageView
@@ -170,10 +146,7 @@
             android:padding="8dp"
             android:tag="8"
             app:layout_column="2"
-            app:layout_columnWeight="1"
-            app:layout_gravity="fill"
             app:layout_row="2"
-            app:layout_rowWeight="1"
             app:srcCompat="@drawable/red_coin" />
 
 
