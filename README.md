@@ -1,6 +1,10 @@
 # Tic-Tac-Toe
 
-<img src="https://github.com/aromalanil/Tic-Tac-Toe/blob/master/art/Phone%20Screenshot%204.jpg" width="200"/>
+![](https://img.shields.io/github/repo-size/aromalanil/Tic-Tac-Toe) 
+![](https://img.shields.io/github/license/aromalanil/Tic-Tac-Toe)
+![](https://img.shields.io/github/v/release/aromalanil/Tic-Tac-Toe)
+
+<img src="https://github.com/aromalanil/Tic-Tac-Toe/blob/master/art/Demo1.jpg"/>
 
 
 ## About
