@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://github.com/aromalanil/Tic-Tac-Toe/blob/master/art/Demo1.jpg"/>
-
+</br>
 
 ## 📋 About
 
@@ -18,13 +18,13 @@ Tired of sketching the grids on paper for the Tic-Tac-Toe game ?
 Presenting the **Tic-Tac-Toe digital game.**  
 Now kill your boredom with friends anytime, anywhere.
 
-<br/><br/>
+<br/>
 
 ## ⭐️ Features
 
 This game isn't packed with tones of features, but the few ones present are :
 
-<br/><br/>
+<br/>
 
 
 ### ✌🏽 Count the Victory
