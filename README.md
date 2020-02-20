@@ -1,8 +1,11 @@
-# Tic-Tac-Toe
-
-![](https://img.shields.io/github/repo-size/aromalanil/Tic-Tac-Toe) 
-![](https://img.shields.io/github/license/aromalanil/Tic-Tac-Toe)
-![](https://img.shields.io/github/v/release/aromalanil/Tic-Tac-Toe)
+<h1 align="center">Tic Tac Toe</h1>
+<div align="center">
+  <img src="https://img.shields.io/github/repo-size/aromalanil/Tic-Tac-Toe"/>
+  <img src="https://img.shields.io/github/license/aromalanil/Tic-Tac-Toe"/>
+  <img src="https://img.shields.io/github/v/release/aromalanil/Tic-Tac-Toe"/>
+</div>
+<hr/>
+<br/><br/>
 
 <img src="https://github.com/aromalanil/Tic-Tac-Toe/blob/master/art/Demo1.jpg"/>
 
