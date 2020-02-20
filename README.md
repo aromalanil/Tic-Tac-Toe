@@ -4,8 +4,7 @@
   <img src="https://img.shields.io/github/license/aromalanil/Tic-Tac-Toe"/>
   <img src="https://img.shields.io/github/v/release/aromalanil/Tic-Tac-Toe"/>
 </div>
-<hr/>
-<br/><br/>
+<br/>
 
 <img src="https://github.com/aromalanil/Tic-Tac-Toe/blob/master/art/Demo1.jpg"/>
 
@@ -19,10 +18,13 @@ Tired of sketching the grids on paper for the Tic-Tac-Toe game ?
 Presenting the **Tic-Tac-Toe digital game.**  
 Now kill your boredom with friends anytime, anywhere.
 
+<br/><br/>
+
 ## ⭐️ Features
 
 This game isn't packed with tones of features, but the few ones present are :
 
+<br/><br/>
 
 
 ### ✌🏽 Count the Victory
@@ -30,16 +32,19 @@ This game isn't packed with tones of features, but the few ones present are :
 <img src="https://github.com/aromalanil/Tic-Tac-Toe/blob/master/art/Phone%20Screenshot%202.jpg" width="200"/>
 
 Count the no of wins each player got.
+<br/><br/>
 
 ### 🤸‍ Play Again Option
 
 <img src="https://github.com/aromalanil/Tic-Tac-Toe/blob/master/art/Phone%20Screenshot%203.jpg" width="200"/>
 
 Finished one round, start another with just a button click.
+<br/><br/>
 
 ### 🎶 Cool Sound effects
 
 Cool sound effects added to get you into the game.
+<br/><br/>
 
 ## 🌟 License
 
